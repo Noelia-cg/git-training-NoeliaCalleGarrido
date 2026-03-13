@@ -1,1 +1,1 @@
-Linea diferente para probocar el conflicto desde el main
+Textos definitivo tras arrglar el conflicto
